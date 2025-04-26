@@ -1,10 +1,3 @@
-That's awesome — congratulations on building your project!  
-Yes, I'd love to help you create a good `README.md` file.
-
-Here's a clean starting point you can copy-paste and tweak based on your exact details:
-
----
-
 # 🏡 Property Renting Website
 
 A full-stack web application for property rentals, similar to Airbnb.  
